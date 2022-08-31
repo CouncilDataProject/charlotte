@@ -1,2 +1,0 @@
-(this["webpackJsonpcdp-charlotte"]=this["webpackJsonpcdp-charlotte"]||[]).push([[0],{199:function(e,t){},87:function(e,t,o){"use strict";o.r(t);o(0);var c=o(25),i=o.n(c),n=o(62),r=(o(213),o(53));i.a.render(Object(r.jsx)("div",{children:Object(r.jsx)(n.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-charlotte-98a7c348"},settings:{}},municipality:{name:"Charlotte",timeZone:"America/New_York",footerLinksSections:[]}},children:Object(r.jsx)(n.App,{})})}),document.getElementById("root"))}},[[87,1,2]]]);
-//# sourceMappingURL=main.7a085cf4.chunk.js.map
