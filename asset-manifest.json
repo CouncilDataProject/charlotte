@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/charlotte/static/js/main.486d67c5.chunk.js",
-    "main.js.map": "/charlotte/static/js/main.486d67c5.chunk.js.map",
-    "runtime-main.js": "/charlotte/static/js/runtime-main.e2f7ae88.js",
-    "runtime-main.js.map": "/charlotte/static/js/runtime-main.e2f7ae88.js.map",
+    "main.js": "/charlotte/static/js/main.4f7a3739.chunk.js",
+    "main.js.map": "/charlotte/static/js/main.4f7a3739.chunk.js.map",
+    "runtime-main.js": "/charlotte/static/js/runtime-main.923467c6.js",
+    "runtime-main.js.map": "/charlotte/static/js/runtime-main.923467c6.js.map",
     "static/css/2.3fe0b2dc.chunk.css": "/charlotte/static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.ab3b7791.chunk.js": "/charlotte/static/js/2.ab3b7791.chunk.js",
-    "static/js/2.ab3b7791.chunk.js.map": "/charlotte/static/js/2.ab3b7791.chunk.js.map",
+    "static/js/2.4cd76063.chunk.js": "/charlotte/static/js/2.4cd76063.chunk.js",
+    "static/js/2.4cd76063.chunk.js.map": "/charlotte/static/js/2.4cd76063.chunk.js.map",
     "index.html": "/charlotte/index.html",
     "static/css/2.3fe0b2dc.chunk.css.map": "/charlotte/static/css/2.3fe0b2dc.chunk.css.map",
-    "static/js/2.ab3b7791.chunk.js.LICENSE.txt": "/charlotte/static/js/2.ab3b7791.chunk.js.LICENSE.txt"
+    "static/js/2.4cd76063.chunk.js.LICENSE.txt": "/charlotte/static/js/2.4cd76063.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2f7ae88.js",
+    "static/js/runtime-main.923467c6.js",
     "static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.ab3b7791.chunk.js",
-    "static/js/main.486d67c5.chunk.js"
+    "static/js/2.4cd76063.chunk.js",
+    "static/js/main.4f7a3739.chunk.js"
   ]
 }
